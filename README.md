@@ -45,5 +45,7 @@ Revisamos tudo para deixar a leitura divertida e clara.
 Um e-book colorido, interativo e educativo.
 Uma maneira de explicar IA para crianças, promovendo curiosidade e criatividade.
 
+[LINK PARA O E-BOOK AQUI]()
+
 ## 💭 Reflexão (Opcional)
 Criar algo simples com IA foi como usar uma caixa de ferramentas mágicas: muitas opções, mas o segredo foi saber o que usar e como. Afinal, a criatividade humana foi o ingrediente principal para deixar o e-book especial!
